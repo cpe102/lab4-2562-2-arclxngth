@@ -1,5 +1,4 @@
 #include<iostream>
-
 using namespace std;
 
 double findDistance(float u,float a,float t){
